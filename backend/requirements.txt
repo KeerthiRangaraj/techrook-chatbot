@@ -1,0 +1,21 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.9
+python-multipart>=0.0.9
+python-dotenv>=1.0
+
+# LangChain (keep these upgraded together)
+langchain>=0.3
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+langchain-groq>=0.2
+langchain-anthropic>=0.2     # only used if LLM_PROVIDER=anthropic
+
+# Vector store + local embeddings
+faiss-cpu>=1.8
+sentence-transformers>=3.1
+langchain-huggingface>=0.1
+
+# Database (optional — only used if SUPABASE_URL / SUPABASE_KEY are set)
+supabase>=2.0

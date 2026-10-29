@@ -1,0 +1,423 @@
+TECHROOK TECHNOLOGIES PVT. LTD.
+EMPLOYEE HANDBOOK 2026
+Effective Date: 1 January 2026 | Version 3.0
+Approved by: Dr. Akash Sharma, Founder & Chairman | Rajesh V. Iyer, CEO
+
+CONFIDENTIAL — INTERNAL USE ONLY
+
+PART I: INTRODUCTION AND COMPANY IDENTITY
+
+Chapter 1: Welcome from Leadership
+TechRook Technologies Pvt. Ltd. was founded in 2018. The company has grown from a 5-person startup in HITEC City, Hyderabad, to a national technology leader with over 800 employees across four major Indian cities. TechRook's flagship products are OmniStream AI and CyberVault 360.
+
+Chapter 2: Company History
+TechRook Technologies Pvt. Ltd. was incorporated on 14 March 2018. HQ: HITEC City, Hyderabad. 2026: 800+ employees.
+
+Chapter 3: Vision, Mission, and Core Values
+Vision: Most trusted AI and cybersecurity technology company in South Asia by 2030.
+Mission: Build and deliver transformative AI and cybersecurity products.
+Core Values: Precision, Agility, Integrity, Inclusion, Innovation, Accountability.
+
+Chapter 4: Office Locations
+HQ: TechRook Tower, Plot No. 12, Phase II, HITEC City, Madhapur, Hyderabad – 500 081. Phone: +91-40-6800-1234. HR: +91-40-6800-1250. Hours: Mon–Fri 09:00–18:30 IST.
+Bangalore: 4th Floor, The Cube, 100 Feet Road, Indiranagar, Bangalore – 560 038. Phone: +91-80-4500-2200.
+Pune: 7th Floor, Cybercity Tower B, Magarpatta City, Hadapsar, Pune – 411 013. Phone: +91-20-6700-3300.
+Noida: 9th Floor, Unitech Business Park, Sector 62, Noida – 201 309. Phone: +91-120-4800-4400.
+
+Chapter 5: Onboarding Accommodation for Outstation Employees
+TechRook provides 10 consecutive calendar days of complimentary corporate accommodation to every employee joining any TechRook office hub who is relocating from a different city. Applicable to all grades L0–L4. Single-occupancy hotel room or service apartment within 5 km of office. Food and incidentals not covered. Must notify HR at least 7 calendar days before joining. Complete Accommodation Request Form (ARF-001) and email hr.admin@techrook.in. No extension beyond 10 days permitted.
+
+PART II: ORGANIZATIONAL HIERARCHY
+
+Chapter 6: Employee Grade Classification
+L0: Trainee — Intern, Graduate Trainee, Apprentice. Fixed-term/Internship.
+L1: Executive/Consultant — Junior Software Engineer, Business Analyst, Technical Consultant. Permanent/Contract.
+L2A: Senior Executive/Senior Consultant — Senior Software Engineer, Senior Analyst, Assistant Manager. Permanent.
+L2B: Manager/Lead/Regional Head — Engineering Manager, Lead Consultant, Delivery Lead. Permanent.
+L3: Director/SBU Head — Director of Engineering, Director of Cybersecurity, SBU Head. Permanent.
+L4: Executive Leadership — CEO, CTO, CFO. Permanent.
+Grade is determined exclusively by HR in consultation with hiring manager. Employee must not self-assign grade.
+
+Chapter 7: Reporting Structure
+L0 report to L2A/L2B Buddy Manager and Project Mentor.
+L1 report to L2A/L2B direct manager.
+L2A report to L2B or L3.
+L2B report to L3 or L4.
+L3 report to CEO.
+No manager should directly manage more than 12 employees without written approval.
+
+PART III: ONBOARDING AND CAREER JOURNEY
+
+Chapter 8: Joining Process and Required Documents
+All joining documents must be submitted within 3 working days. Salary will be held until all documents received and verified.
+
+8.1 Mandatory Joining Documents (all grades):
+1. Aadhaar Card (original + 1 self-attested photocopy)
+2. PAN Card (original + 1 self-attested photocopy)
+3. Degree/Diploma Certificates for all academic qualifications (originals + self-attested photocopies)
+4. Relieving Letter from immediately preceding employer — on company letterhead, signed by HR, stating last working date. Mandatory for all employees with prior work experience.
+5. 3 consecutive months salary pay slips from immediately preceding employer. Freshers: declaration of fresher status.
+6. Universal Account Number (UAN) for PF transfer. First-time employees: new UAN allotted by HR.
+7. 2 recent passport-size photographs (physical, not digital)
+8. Bank account details: Account Number, IFSC Code, and cancelled cheque or bank-issued account confirmation letter
+9. Form 12B — for employees joining mid-financial year with prior employment
+
+8.2 Background Verification
+Mandatory BGV for all employees at L1 and above. Covers: educational qualifications, previous employment records (last 7 years), criminal record check. Conducted by TechRook's empanelled third-party agency. Takes 15–21 working days. Employment confirmation conditional on satisfactory BGV. Discrepancy may result in termination without notice.
+
+Chapter 9: Mandatory Certifications — First 15 Days
+Every employee at every grade (L0 to L4) must complete two mandatory certification courses within the first 15 calendar days of joining. Failure affects probation assessment and confirmation eligibility.
+
+9.1 CyberVault Basics — Information Security Fundamentals
+Platform: TechRook University Portal (university.techrook.in)
+Duration: 6 hours (self-paced; can be completed in multiple sessions)
+Assessment: 40-question multiple choice test; minimum passing score: 70%
+Completion Deadline: Within 15 calendar days of joining date
+Re-attempt Policy: Unlimited re-attempts within the 15-day window
+Certificate Validity: Valid for 12 months; annual renewal mandatory
+Applicable To: All employees L0 to L4
+
+9.2 AI Ethics 101 — Responsible AI at TechRook
+Platform: TechRook University Portal (university.techrook.in)
+Duration: 4 hours (self-paced)
+Assessment: 25-question multiple choice + 1 case study submission; minimum passing score: 65%
+Completion Deadline: Within 15 calendar days of joining date
+Certificate Validity: Valid for 12 months; annual renewal mandatory
+Applicable To: All employees L0 to L4
+
+Chapter 10: Quarterly Mandatory Upskilling
+L0: 1 mandatory + 1 elective; 8 hours/quarter; TechRook University
+L1: 1 mandatory + 1 elective; 10 hours/quarter; TechRook University + approved external
+L2A: 1 mandatory + 2 elective; 12 hours/quarter
+L2B: 1 mandatory + 2 elective; 14 hours/quarter
+L3: 1 mandatory + self-directed; 16 hours/quarter
+Non-completion: formal note in performance record. Three consecutive quarters triggers formal performance improvement discussion.
+
+Chapter 11: Induction and Orientation Program — 5-Day Schedule
+Day 1: IT setup, access credentials, workstation assignment, document collection, ICICI salary account activation — IT Team + HR
+Day 2: OmniStream AI demo, CyberVault 360 walkthrough, Cloud infrastructure tour — Product Team
+Day 3: HR policies walkthrough (this handbook), POSH briefing, Zero-Trust security orientation — HR + Security
+Day 4: Department-specific orientation, team introductions, project assignment briefing — Hiring Manager
+Day 5: CEO Welcome Session (virtual or in-person), Q&A with senior leadership, enrollment on TechRook University — CEO Office + HR
+
+PART IV: LEAVE AND ATTENDANCE POLICY
+
+Chapter 12: Leave Entitlements
+Leave year: 1 January to 31 December. Leave prorated for mid-year joiners.
+
+Casual Leave (CL): 12 days annual entitlement. No carry-forward; lapses 31 December. Not encashable. Accrual: 1 day per month, credited on 1st of each month.
+CL Rules: Max 3 consecutive CL days. Cannot combine CL with PL. Cannot combine with public holiday to exceed 5 consecutive calendar days without Department Head approval. Apply on HR Portal before leave date. Emergency: notify manager by 10:00 IST and apply within 24 hours of return.
+
+Privilege Leave (PL) / Earned Leave (EL): 15 days annual entitlement. Max 30 days carry-forward. Encashable on separation only: (Basic Salary per month / 26 working days) x PL days — calculated by Finance Department. Accrual: 3.75 days per quarter after probation confirmation.
+PL Rules: Employees on probation do not earn PL. PL accrual begins from date of confirmation. Minimum 7 calendar days advance notice required. May combine with public holidays and CL with prior approval. Excess of 30 days carry-forward lapses at year end.
+
+Sick Leave (SL): 10 days annual entitlement. Max 15 days carry-forward. Not encashable. Full quota credited 1 January; prorated for new joiners.
+SL Rules: 3 or more consecutive SL days requires Medical Certificate from Registered Medical Practitioner submitted within 3 working days of return. HR may request certificate for any SL regardless of duration. If SL exhausted, PL applied automatically. If PL also exhausted, leave without pay (LWP) at HR discretion.
+
+Chapter 13: Public and Festival Holidays
+TechRook observes minimum 14 paid public holidays per calendar year.
+Mandatory holidays: Republic Day (26 January), Holi, Good Friday, Ambedkar Jayanti (14 April), Labour Day (1 May), Eid ul-Fitr, Independence Day (15 August), Gandhi Jayanti (2 October), Dussehra, Diwali (main day), Christmas (25 December), TechRook Foundation Day (14 March), 2 Regional Holidays (location-specific, announced by HR by 15 December of prior year).
+
+Chapter 14: Attendance Policy
+Core Working Hours: 09:00 IST to 18:30 IST, Monday through Friday
+Lunch Break: 13:00 to 14:00 IST (1 hour; not deducted from working hours)
+Weekly Off: Saturday and Sunday (5-day work week)
+Minimum Daily Hours: 8 hours 30 minutes of productive work per working day
+Attendance Tracking: Electronic biometric system at all offices; remote employees log via HR Portal
+Punctuality Threshold: Arriving after 09:15 IST is recorded as a late arrival
+
+Late Arrival Policy:
+1–2 late arrivals in a month: No action; auto-logged
+3 late arrivals: Formal reminder from HR; 1 Casual Leave day deducted
+4–5 late arrivals: Written warning from HR; 2 Casual Leave days deducted
+6–8 late arrivals: Salary deduction of 0.5 days pay per additional late arrival beyond 5
+More than 8 late arrivals: Disciplinary action; formal inquiry; potential salary deduction of 1 day per additional late arrival
+
+AWOL Policy:
+3+ consecutive working days AWOL without approval: Loss of pay + formal written warning
+7+ consecutive working days AWOL: Automatic termination of employment without notice or severance
+Any AWOL in a quarter: Not eligible for performance bonus or incentive for that quarter
+
+PART V: COMPENSATION, PAYROLL, AND BENEFITS
+
+Chapter 15: Salary Structure and Payroll
+Salary Components:
+Basic Salary: 40–50% of CTC; basis for PF, Gratuity, Leave Encashment. Fully taxable.
+House Rent Allowance (HRA): 50% of Basic for metro cities (Hyderabad, Bangalore, Pune, Noida); 40% for non-metro. Partially exempt per IT Act.
+Special Allowance: Balance of CTC after statutory deductions. Fully taxable.
+Medical Allowance: INR 1,250 per month (fixed). Exempt up to INR 15,000 p.a.
+Leave Travel Allowance (LTA): 1 month Basic Salary per year; claimable once per calendar year against travel bills. Exempt per IT Act.
+Performance Bonus: 0–30% of Annual CTC; paid semi-annually based on KRA achievement. Fully taxable.
+
+Salary Payment:
+Salaries credited to ICICI Bank salary account on last working day of each calendar month.
+If last working day falls on bank holiday, salary advanced to previous working day.
+HR processes salaries by 25th of each month; Finance initiates transfer by 28th.
+Pay slips available on TechRook HR Portal on or before 5th of following month.
+
+Chapter 16: Statutory Benefits
+Provident Fund (PF): 12% of employee Basic Salary deducted. TechRook contributes equal 12% Basic. Of TechRook 12%, 8.33% goes to Employees Pension Scheme (EPS). Maintained with EPFO Regional Office Hyderabad.
+
+Employees State Insurance (ESIC): For employees with gross monthly salary INR 21,000 or below. Employee contribution: 0.75% gross. TechRook contribution: 3.25% gross. ESIC-covered employees not eligible for Group Mediclaim simultaneously.
+
+Gratuity: All employees covered under Payment of Gratuity Act 1972 from date of joining. Eligible after 5 years continuous service. Formula: (Last drawn Basic Salary / 26) x 15 x completed years of service. Payable within 30 days of last working day.
+
+Group Personal Accident Insurance: All employees L0 to L4 covered from date of joining. Coverage: INR 25 Lakhs per employee for accidental death and permanent total disability. Active 24 hours/day, 365 days/year, anywhere in world. Employee or nominee must notify HR within 24 hours of incident.
+
+Group Mediclaim Insurance: All employees at L1 and above (and L0 converted to full-time) not covered under ESIC. Coverage: INR 5 Lakhs per annum per employee. Covers employee + 3 dependents (spouse, up to 2 children). Minimum 24-hour hospitalization required. Pre-existing conditions covered after 30-day waiting period.
+
+Chapter 17: Additional Financial Benefits
+Employee Referral Bonus:
+L0 position: INR 15,000
+L1 position: INR 25,000
+L2A position: INR 40,000
+L2B and above: INR 60,000
+Paid in payroll cycle following referred employee completing 90 days. Only permanent employees eligible (not interns/contract). Referral must be submitted on HR Portal before candidate applies. First referral by timestamp wins if multiple. HR Department and hiring managers not eligible for that role.
+
+Wedding Gift: For confirmed employees (completed probation) who marry during tenure.
+L0 and L1: INR 15,000
+L2A and above: INR 25,000
+Submit marriage certificate to HR within 90 calendar days of marriage. Credited next payroll cycle.
+
+WFH Equipment Stipend: INR 50,000 one-time for L1 and above employees designated permanent remote or hybrid. Reimbursement on original purchase bills. Not available for full-time office employees. Equipment belongs to employee; not reclaimed on separation.
+
+PART VI: EMPLOYMENT TERMS AND PROBATION
+
+Chapter 18: Probation Policy
+L0 Intern: As specified in Internship Agreement (typically 0–6 months)
+L1 to L2B: 6 calendar months from date of joining
+L3 and L4: 3 calendar months from date of joining
+Probation Appraisal: 5th month (L1–L2B) or 2nd month (L3–L4) using Probation Assessment Form (PAF-001)
+Satisfactory: Written confirmation via Appointment Confirmation Letter
+Marginal: Extension by maximum 3 additional months; one extension only
+Unsatisfactory: Employment may be terminated with notice per Chapter 19
+
+Chapter 19: Notice Period and Separation Policy
+Notice Period on Resignation:
+L0 Intern: 30 calendar days or per Internship Agreement
+L1 to L2A on probation: 30 calendar days
+L1 to L2A confirmed: 30 calendar days
+L2B to L4 on probation: 30 calendar days
+L2B to L4 confirmed: 60 calendar days
+
+Notice Buyout: Employee may pay salary equivalent of unserved notice period. Prior written approval from Department Head and HR required. Buyout calculated: monthly gross salary / 30 per day.
+
+Grounds for Immediate Termination (Without Notice):
+1. False academic credentials, work experience, or identification documents
+2. Fraud, financial misappropriation, or embezzlement
+3. Leaking proprietary source code, client data, or product roadmaps
+4. Criminal conviction under Indian law
+5. Sexual harassment as determined by ICC under POSH Act
+6. Workplace violence or threats
+7. Absent 7 or more consecutive working days without authorization
+
+Chapter 20: Full and Final Settlement
+F&F includes: salary for last working month, PL encashment, pending expense reimbursements, gratuity if eligible. Processed within 45 calendar days of last working day. Relieving letter and experience certificate issued only after F&F cheque cleared.
+
+Chapter 21: Non-Compete and Non-Solicitation
+Non-compete: 12 months post-separation. Competitors defined as AI/cybersecurity/cloud infra companies with annual revenue exceeding INR 10 crore.
+Non-solicitation: 12 months post-separation. Cannot solicit TechRook clients or employees.
+
+PART VII: WORKPLACE ENVIRONMENT AND TECHNOLOGY POLICIES
+
+Chapter 22: Office Life
+The Rook Cafe (HQ Hyderabad): Open 24/7, 365 days. Hot meals: Breakfast 07:00–10:00, Lunch 12:00–15:00, Dinner 19:00–22:00. Subsidized: Breakfast INR 50, Lunch INR 80 for employees. Cashless only via TechRook RFID Cafeteria Card. Smoking, alcohol, tobacco strictly prohibited.
+
+Chapter 23: Zero-Trust Security Architecture
+TechRook operates on Zero-Trust Security model. Every employee, device, and network session authenticated independently. Violation is grounds for immediate disciplinary action and potential termination.
+
+CyberVault 360 Login Protocols:
+All logins via CyberVault 360 Secure Access Gateway.
+MFA mandatory. Enroll minimum 2 MFA devices (primary mobile + backup) within first 3 working days.
+Password: minimum 14 characters, uppercase, lowercase, numbers, special characters. Change every 90 calendar days.
+Never share login credentials with anyone including managers or IT support.
+TechRook IT Support will never ask for password via any channel. Report such requests to security@techrook.in.
+External access must be through TechRook-issued VPN client. Personal VPN prohibited on TechRook devices.
+Session timeout: 15 minutes inactivity. Must not override.
+
+BYOD Policy:
+L0 and L1: Not permitted to access TechRook systems from personal devices.
+L2A: May request BYOD from IT Department; requires Department Head written consent.
+L2B and above: Permitted for email and calendar access via MDM enrollment.
+Personal devices enrolled in MDM may be remotely wiped by TechRook IT in case of loss, theft, or security incident.
+TechRook-issued devices: personal file storage limit 10 GB. Quarterly audits conducted.
+Software installation: requires prior IT approval via Software Request Form (IT-SR-001).
+
+Chapter 24: Internet and Email Usage
+Strictly Prohibited: Accessing/downloading pornographic or illegal content; unauthorized mass email or spam; installing unauthorized software; accessing Dark Web or hacking forums; sending confidential data to unauthorized external emails; connecting unauthorized USB devices.
+
+Chapter 25: Data Protection and Confidentiality
+Employee must not disclose client data, financial info, product roadmaps, or personnel data without written authorization from CISO or CEO. Report suspected data breach to security@techrook.in within 1 hour of discovery. Confidentiality obligations survive termination for 5 years.
+
+PART VIII: LEGAL, CONDUCT, AND COMPLIANCE POLICIES
+
+Chapter 26: Prevention of Sexual Harassment (POSH) Policy
+Legal Basis: Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.
+Coverage: All employees — permanent, contractual, intern, temporary — all locations including client sites, travel, and virtual.
+ICC contact: posh.icc@techrook.in (monitored 24/7)
+ICC composition at each office: 1 Presiding Officer (senior female employee L3+), 2 Internal Members, 1 External Member (NGO representative).
+Complaint filing: Written complaint to ICC within 90 calendar days of incident. Include date, time, location, persons involved, witnesses.
+ICC acknowledges within 3 working days.
+Inquiry completed within 60 calendar days.
+ICC findings submitted to HR and CEO within 10 working days of inquiry completion.
+Complainant may request interim relief (transfer to different team).
+Consequences: written warning, mandatory training, suspension without pay, demotion, transfer, or termination. False malicious complaints also subject to disciplinary action.
+Confidentiality: identity of all parties strictly confidential. Disclosure punishable.
+
+Chapter 27: Anti-Discrimination and Equal Opportunity
+TechRook is an equal opportunity employer. No discrimination based on gender, caste, religion, community, language, age, disability, sexual orientation, marital status, pregnancy, or any other protected characteristic.
+
+Chapter 28: Code of Conduct and Disciplinary Policy
+Disciplinary Process:
+Level 1 — Verbal Warning: by direct manager for minor first-time infractions
+Level 2 — Written Warning: by HR Department; recorded in personnel file
+Level 3 — Final Written Warning with Salary Deduction or Suspension: by HR in consultation with Department Head
+Level 4 — Termination: for gross misconduct, repeated violations, or immediate termination triggers
+Employee has opportunity to present case in writing before final decision except for immediate termination.
+
+Chapter 29: Grievance Redressal Policy
+Grievance Escalation:
+Step 1: Raise with direct manager verbally or in writing. Manager responds within 5 working days.
+Step 2: If unresolved, escalate to hr@techrook.in. HR responds within 7 working days.
+Step 3: Request CEO Open Forum via HR Department. CEO or delegate addresses within 15 working days.
+Anonymous grievances reviewed monthly. Legal violations escalated immediately to ICC or Legal Department.
+
+Chapter 30: Whistleblower Protection
+Good-faith reporters protected from adverse employment action including demotion, dismissal, or harassment. Report to compliance@techrook.in or anonymous portal. Retaliation against whistleblower grounds for disciplinary action up to termination.
+
+PART IX: TRAVEL AND EXPENSE POLICY
+
+Chapter 31: Domestic Travel Policy
+City Classification:
+Tier 1 (Metro): Mumbai, Delhi NCR, Bangalore, Hyderabad, Chennai, Kolkata, Pune
+Tier 2 (Major City): Ahmedabad, Chandigarh, Jaipur, Kochi, Indore, Nagpur, Coimbatore, Surat, Bhopal
+Tier 3 (Other): All other cities
+
+Accommodation Entitlement (INR per night, inclusive of taxes):
+L0: Tier1=INR 1,500; Tier2=INR 1,000; Tier3=INR 750
+L1: Tier1=INR 3,000; Tier2=INR 2,000; Tier3=INR 1,500
+L2A: Tier1=INR 4,500; Tier2=INR 3,000; Tier3=INR 2,000
+L2B: Tier1=INR 6,000; Tier2=INR 4,000; Tier3=INR 2,500
+L3: Tier1=INR 8,000; Tier2=INR 5,500; Tier3=INR 3,500
+L4: At actuals with prior CEO approval
+
+Daily Meal Allowance (INR per day):
+L0: Tier1=INR 400; Tier2=INR 300; Tier3=INR 250
+L1: Tier1=INR 700; Tier2=INR 550; Tier3=INR 400
+L2A: Tier1=INR 900; Tier2=INR 700; Tier3=INR 550
+L2B: Tier1=INR 1,200; Tier2=INR 950; Tier3=INR 700
+L3: Tier1=INR 1,600; Tier2=INR 1,200; Tier3=INR 900
+L4: At actuals
+
+Intercity Transport Entitlement:
+L0: 2nd Class Sleeper train; Non-AC state bus
+L1: 3rd AC train (Sleeper AC); AC state bus
+L2A: 2nd AC train; AC bus; shared cab
+L2B: 2nd AC train; economy air travel (distance > 500 km); rental car (shared)
+L3: 1st AC train; economy air travel; rental car
+L4: 1st AC train; business class air travel; full rental car
+
+Air travel for distances below 300 km not permitted except for L4 or with prior CEO written approval.
+Travel advance: submit at least 3 working days before travel via Travel Request Form TR-001.
+Expense claims: submit within 7 working days of return via Expense Claim Form ECF-001 with original bills.
+Bills not supported by originals: reimbursed at 25% of applicable daily allowance only.
+Alcohol, tobacco, personal entertainment not reimbursable.
+
+Chapter 32: Mobile Phone Reimbursement
+L0: INR 0 — not eligible
+L1 (field role): INR 500 per month (local calls on approval)
+L2A (field role): INR 800 per month (local calls)
+L2B: INR 1,200 per month (local + STD calls)
+L3: INR 2,500 per month (local + STD + national roaming)
+L4: At actuals (full national roaming)
+
+PART X: PERFORMANCE MANAGEMENT AND RECOGNITION
+
+Chapter 33: Performance Appraisal System
+Performance year: 1 April to 31 March. All employees L1 and above participate.
+Goal Setting: April 1–15 — Employee and Manager define SMART KRAs on HR Portal
+Mid-Year Review: September — Manager reviews progress, no rating at this stage
+Self-Appraisal: March 1–10 — Employee completes self-rating on all KRAs
+Manager Appraisal: March 11–20 — Manager provides ratings and written feedback
+HR Calibration: March 21–31 — HR reviews for consistency; final scores locked
+Appraisal Discussion: April 1–15 — Manager discusses final ratings face-to-face
+Increment & Bonus Communication: April 15–30 — Revised CTC letters issued; bonus in April payroll
+
+Performance Rating Scale:
+Rating 5 — Exceptional: Consistently exceeded all KRAs; extraordinary impact. Bonus: 100% of target.
+Rating 4 — High Performer: Exceeded most KRAs; strong contributor. Bonus: 75% of target.
+Rating 3 — Meets Expectations: Achieved all KRAs at expected level. Bonus: 50% of target.
+Rating 2 — Needs Improvement: Partially achieved KRAs. Bonus: 0%; PIP initiated.
+Rating 1 — Below Expectations: Did not meet KRAs. Bonus: 0%; termination review.
+
+Chapter 34: Employee Recognition Programs
+Spot Recognition Award: May be given by any manager at L2B and above to any employee. Digital badge + physical appreciation certificate. No monetary component. No HR approval required. Any time.
+Employee of the Month: One employee per office per month. Award: CEO appreciation letter, reserved parking for 1 month, INR 5,000 Flipkart gift voucher, profile feature on intranet and LinkedIn.
+Team Excellence Award: Teams achieving quarterly targets. Award: team outing up to INR 15,000, mention in All-Hands meeting, Team Excellence trophies.
+Annual TechRook Pinnacle Awards (at All India Annual Meet in March):
+Innovator of the Year: INR 50,000 cash
+Security Champion of the Year: INR 40,000 cash
+Customer Excellence Award: INR 40,000 cash
+Rising Star Award (under 2 years service): INR 25,000 cash
+
+Chapter 35: Internal Communication
+TechRook All-Hands Meeting: Monthly, last Friday, 17:00 IST — CEO updates, business review, Q&A.
+TechRook Weekly Digest: Every Monday morning — product updates, HR announcements.
+TechRook Slack Workspace: Real-time communication.
+HR Notice Board: Policy updates, holiday announcements.
+
+PART XI: WORKPLACE CONDUCT, HEALTH, AND SAFETY
+
+Chapter 36: Dress Code Policy
+Monday to Thursday (In-office): Business Casual — collared shirt or blouse, trousers or formal skirt, closed-toe shoes; no shorts or flip-flops.
+Friday (Casual Friday): Smart Casual — jeans permitted, clean t-shirts with collar; no torn clothing or sportswear.
+Client meetings: Business Formal — formal shirt/blazer, formal trousers/skirt, leather shoes.
+Client meetings with C-Suite: Business Formal with Blazer/Suit; tie optional but preferred.
+Remote working days: No dress code enforced; professional attire recommended during video calls.
+
+Chapter 37: Health, Safety, and Welfare Policy
+Mandatory fire drill at each office at least twice per year.
+First-aid kit at each office, inspected and restocked monthly.
+Empanelled doctor at HQ Hyderabad: Tuesday and Thursday 10:00–13:00 IST. Other offices: teleconsultation via Practo Enterprise.
+Employee Assistance Program (EAP): Confidential mental health support for all employees and immediate family. Contact: eap@techrook.in | +91-80-4500-2299 (24/7 helpline).
+
+Chapter 38: Maternity, Paternity, and Extraordinary Leave
+Maternity Leave: 26 weeks paid (Maternity Benefit Act 1961 amended 2017). Eligible: female employees with 80+ working days in 12 months preceding delivery. Max 2 occasions. Notify HR in writing 8 weeks before start with medical certificate. Miscarriage/medical termination: 6 weeks paid leave. Position held; reinstated to same or equivalent role.
+
+Paternity Leave: 10 working days paid. Eligible: male employees with 6 months continuous service. Max 2 occasions. Avail within 90 calendar days of delivery. Notify HR 7 days advance with medical certificate confirming delivery.
+
+Bereavement Leave: 5 working days paid. Immediate family: spouse, children, parents, siblings, parents-in-law. Department Head approval sufficient. Death certificate to HR within 10 working days of return.
+
+PART XII: ASSET MANAGEMENT POLICY
+
+Chapter 39: Company Assets
+Laptop: L1 and above (L0 on project requirement). Loss/negligence: 90% current market value.
+External Monitor: L2A and above; remote employees. Loss: 100% market value.
+Mobile Phone (corporate): L3 and above. Loss: 100% market value.
+Encrypted USB Drive: L2B and above; project-specific. Loss: 100% replacement cost.
+Access Card/RFID Badge: All employees. Replacement fee: INR 500.
+Employee acknowledges receipt via Asset Acknowledgement Form (AA-001). Assets returned on or before last working day. Failure: recovery from F&F Settlement.
+
+Mobile Phone Reimbursement:
+L0: Not eligible
+L1 field role: INR 500/month (local calls)
+L2A field role: INR 800/month (local calls)
+L2B: INR 1,200/month (local + STD)
+L3: INR 2,500/month (local + STD + national roaming)
+L4: At actuals
+
+Chapter 40: TechRook HR Portal and Key Contacts
+HR Portal: hr.techrook.in (all HR processes — leave, travel, payslips, appraisals, referrals, grievances)
+
+Key Contacts:
+HR General Enquiries: hr@techrook.in | +91-40-6800-1250
+Payroll Queries: payroll@techrook.in
+IT Support Desk (24/7): itsupport@techrook.in | +91-40-6800-1300
+Security Incidents: security@techrook.in
+POSH/ICC Complaints: posh.icc@techrook.in (24/7)
+Compliance/Whistleblower: compliance@techrook.in
+Administration: admin@techrook.in
+Employee Assistance Program (24/7): eap@techrook.in | +91-80-4500-2299
+
+This Employee Handbook supersedes all previous versions. Policies effective from 1 January 2026.
+TechRook Technologies Pvt. Ltd. | TechRook Tower, HITEC City, Hyderabad – 500 081 | www.techrook.in
